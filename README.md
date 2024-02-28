@@ -1,3 +1,3 @@
 # PHP-MySQL
-Shoe selling website
-Tran Kim Phu _ SGU
+- Shoe selling website
+- Tran Kim Phu _ SGU
